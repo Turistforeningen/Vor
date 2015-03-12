@@ -24,3 +24,14 @@
 .view {
 
 }
+
+.view .widget {
+
+}
+
+.view .widget.activity {
+  padding-top: 200px;
+  font-family: "Raleway", sans-serif;
+  font-size: 40px;
+  text-align: center;
+}

@@ -12,9 +12,8 @@
   border-bottom: 1px solid #000000;
 }
 
-.controller ul li:hover {
+.controller ul li.active {
   background-color: #eaeaea;
-
 }
 
 .controller ul li h1 {

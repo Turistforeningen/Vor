@@ -8,7 +8,17 @@
 .controller ul li {
   height: 100px;
   padding-top: 50px;
-  background-color: grey;
+  background-color: #b4b4b4;
+  border-bottom: 1px solid #000000;
+}
+
+.controller ul li:hover {
+  background-color: #eaeaea;
+
+}
+
+.controller ul li h1 {
+  font-size: 22px;
 }
 
 .view {
